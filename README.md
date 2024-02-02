@@ -8,6 +8,7 @@ The "Heart Attack Risk Prediction using Machine Learning" is an intermediate-lev
 
 1. **Data Collection:**
    - Utilize the Kaggle dataset on heart attack risk, containing relevant health features such as age, gender, BMI, blood pressure, cholesterol levels, and other key indicators.
+   - link to kaggle dataset : https://www.kaggle.com/datasets/iamsouravbanerjee/heart-attack-prediction-dataset 
 
 2. **Data Preprocessing:**
    - Perform thorough data cleaning and preprocessing to handle missing values, outliers, and ensure data quality.
