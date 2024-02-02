@@ -52,7 +52,3 @@ The final model, whether logistic regression or SVM, will be evaluated based on 
 
 - This project was developed using the Kaggle dataset on heart attack risk.
 - The dataset source: [Kaggle - Heart Attack Analysis & Prediction](provide the link).
-  
-## License
-
-This project is licensed under the [MIT License](LICENSE).
